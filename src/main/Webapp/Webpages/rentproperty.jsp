@@ -7,6 +7,7 @@
 <title>rent-property</title>
 <link rel="stylesheet" type="text/css" href="css/rentproperty.css"/>
 </head>
+
 <body>
 <h2>Enter your Property Details</h2><br>
 <p><a  href="/home"> Click here </a>to go back to home page <br></br></p>
